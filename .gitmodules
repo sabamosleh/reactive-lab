@@ -1,0 +1,6 @@
+[submodule "reactive-lab-echo"]
+	path = reactive-lab-echo
+	url = git@github.com:sabamosleh/ReactiveLab.git
+[submodule "reactive-lab-none-blocking"]
+	path = reactive-lab-none-blocking
+	url = git@github.com:sabamosleh/ReactiveLab.git
